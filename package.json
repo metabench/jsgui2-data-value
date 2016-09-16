@@ -1,0 +1,18 @@
+{
+  "name": "jsgui2-data-value",
+  "main": "data-value.js",
+  "license" : "MIT",
+  "engines" : { "node" : ">=6.5.0" },
+  "description": "jsgui2 ES6 evented class that holds an item of data",
+  "author": "James Vickers <james@metabench.com>",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/metabench/jsgui2-data-value.git"
+  },
+  "version": "0.0.1",
+  "dependencies" : {
+    "jsgui2-essentials" : "> 0.0.1",
+    "jsgui2-evented-class" : "> 0.0.1"
+  }
+
+}
